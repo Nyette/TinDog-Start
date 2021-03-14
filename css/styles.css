@@ -22,6 +22,17 @@ h3 {
     font-weight: 900;
 }
 
+/* Icons */
+
+i {
+    color: #EF8172;
+    font-size: 3rem;
+}
+
+i:hover {
+    color: #FF4C68;
+}
+
 /* Nav */
 
 .navbar {
@@ -58,29 +69,10 @@ h3 {
 }
 
 #title img {
-    position: absolute;
-    transform: rotate(25deg);
     width: 60%;
 }
 
-/* Icons */
-
-i {
-    color: #EF8172;
-    font-size: 3rem;
-}
-
-i:hover {
-    color: #FF4C68;
-}
-
 /* Features */
-
-#features {
-    background-color: white;
-    position: relative;
-    z-index: 1;
-}
 
 #features .col-lg-4 {
     padding: 5%;
